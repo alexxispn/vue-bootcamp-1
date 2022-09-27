@@ -21,6 +21,7 @@ describe('IndecisionGame component', () => {
 
         clgSpy = jest.spyOn(console, 'log')
 
+
         jest.clearAllMocks()
 
     })
