@@ -22,3 +22,5 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Ejercicio del Curso de Fernando Herrera de Vue: https://www.udemy.com/course/vuejs-fh/#instructor-1
