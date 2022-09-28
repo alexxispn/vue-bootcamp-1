@@ -1,4 +1,4 @@
-# vue-bootcamp-1
+# vue-yes-no-answer-game
 
 ## Project setup
 ```
